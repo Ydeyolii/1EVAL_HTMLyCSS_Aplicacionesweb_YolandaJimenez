@@ -1,0 +1,40 @@
+
+
+
+
+body{
+    margin: 0;
+}
+/*SELECTOR UNIVERSAL*/
+*{
+    background-color: forestgreen;
+}
+
+/*SELECTOR DE ETIQUETA*/
+h4{
+    background-color: red;
+}
+
+footer{
+    border: blueviolet double 10px;
+    margin: 30px;
+    padding: 0;
+    border-radius:20px;
+    font-weight: bold;
+}
+
+/*SELECTOR DE CLASE*/
+p.fazul{
+    background-color: mediumseagreen;
+}
+
+/*SELECTOR DE ID*/
+p#fnaranja{
+    background-color: violet;
+}
+
+/*SELECTOR DESCENDIENTE*/
+footer p{
+    color: beige;
+}
+

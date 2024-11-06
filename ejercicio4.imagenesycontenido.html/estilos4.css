@@ -1,0 +1,19 @@
+img.pessi {
+    width: 300px;
+    height: 200px;
+    vertical-align: middle;    
+}
+
+p {
+    text-indent: 20px;
+    word-spacing: 7%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+span.Meo{
+    text-decoration: line-through;
+}

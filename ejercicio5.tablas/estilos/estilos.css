@@ -1,0 +1,39 @@
+
+html{
+	background-image: url(../../Screenshot_2020923_084018.png);
+	background-position: 20px 100px;
+			
+
+}
+
+td.Recreo{
+	background-color: khaki;
+	padding: 10;
+	border: blue 4px solid;
+
+}
+
+body{
+    margin: 0;
+}
+
+
+p{
+	color:blue; 
+	background-color: blueviolet;
+}
+
+td.sr {
+	background-color: black;
+}
+
+
+h1#h1{
+	color: blueviolet;
+	background-color: chartreuse;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
