@@ -1,0 +1,6 @@
+ul.cuadrado{
+    list-style-type: square;
+}
+ul.blanco{
+    list-style-type: circle;
+}
